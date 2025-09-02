@@ -9,11 +9,5 @@ var sumOfTheDigitsOfHarshadNumber = function(x) {
         sum+=temp%10;
         temp=Math.floor(temp/10);
     }
-    if(x%sum==0){
-        console.log(x%sum)
-        return sum
-    }
-    else{
-        return -1
-    }
+    return x % sum === 0 ? sum : -1
 };
