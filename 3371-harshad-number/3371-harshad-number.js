@@ -3,17 +3,17 @@
  * @return {number}
  */
 var sumOfTheDigitsOfHarshadNumber = function(x) {
-    let str=String(x).split("");
-    console.log(str);
     let sum=0;
-    for(let a of str){
-        sum+=Number(a);
+    let temp=x;
+    while(temp!==0){
+        sum+=temp%10;
+        temp=Math.floor(temp/10);
     }
-    console.log(sum);
     if(x%sum==0){
+        console.log(x%sum)
         return sum
     }
     else{
-        return -1;
+        return -1
     }
 };
