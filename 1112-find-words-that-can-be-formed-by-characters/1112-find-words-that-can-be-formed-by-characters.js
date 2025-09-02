@@ -1,43 +1,30 @@
-/**
- * @param {string[]} words
- * @param {string} chars
- * @return {number}
- */
 var countCharacters = function(words, chars) {
-    let leng=0;
-    let charCount={}
-    for(let a of chars ){
-        if(charCount[a]){
-            charCount[a]=charCount[a]+1
-        }
-        else{
-            charCount[a]=1;
-        }
+    let leng = 0;
+    let charCount = {};
+
+    // count chars frequency
+    for (let a of chars) {
+        charCount[a] = (charCount[a] || 0) + 1;
     }
-    console.log(charCount);
-    for(let a of words){
-        let temp={}
-        let flag=true;
-        for(let b of a ){
-            if(temp[b]){
-                temp[b]=temp[b]+1
-            }
-            else{
-                temp[b]=1;
+
+    for (let word of words) {
+        let temp = {};
+        let flag = true;
+
+        // count word frequency
+        for (let b of word) {
+            temp[b] = (temp[b] || 0) + 1;
+        }
+
+        // compare only unique letters in word
+        for (let key in temp) {
+            if (!charCount[key] || temp[key] > charCount[key]) {
+                flag = false;
+                break;   // stop early if not valid
             }
         }
-        console.log(temp)
-        for(let j of a){
-            if(charCount[j]>=temp[j]){
-                flag=flag
-            }
-            else{
-                flag=false
-            }
-        }
-        if(flag){
-            leng+=a.length
-        }
+
+        if (flag) leng += word.length;
     }
-    return leng
+    return leng;
 };
