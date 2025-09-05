@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/akhilnasimk/LeetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akhilnasimk/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/akhilnasimk/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/akhilnasimk/LeetCode/tree/master/2083-three-divisors) |
@@ -88,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akhilnasimk/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/akhilnasimk/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/akhilnasimk/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/akhilnasimk/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
