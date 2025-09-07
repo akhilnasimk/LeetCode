@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akhilnasimk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/akhilnasimk/LeetCode/tree/master/0792-binary-search) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilnasimk/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1241-decompress-run-length-encoded-list](https://github.com/akhilnasimk/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akhilnasimk/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1651-shuffle-string](https://github.com/akhilnasimk/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akhilnasimk/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
