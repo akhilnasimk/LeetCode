@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhilnasimk/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhilnasimk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/akhilnasimk/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akhilnasimk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2756-buy-two-chocolates](https://github.com/akhilnasimk/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3311-ant-on-the-boundary](https://github.com/akhilnasimk/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/akhilnasimk/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/akhilnasimk/LeetCode/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akhilnasimk/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/akhilnasimk/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/akhilnasimk/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/akhilnasimk/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akhilnasimk/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
