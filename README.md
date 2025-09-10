@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/akhilnasimk/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/akhilnasimk/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/akhilnasimk/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2630-alternating-digit-sum](https://github.com/akhilnasimk/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akhilnasimk/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/akhilnasimk/LeetCode/tree/master/3371-harshad-number) |
 ## Simulation
