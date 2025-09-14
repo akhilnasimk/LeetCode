@@ -4,20 +4,20 @@
  * @return {number[]}
  */
 var addToArrayForm = function(num, k) {
-    let i = num.length - 1;
-    let carry = k;
+     let sum = "";
 
-    while (i >= 0 || carry > 0) {
-        if (i >= 0) {
-            carry += num[i];      
-            num[i] = carry % 10;  
-            carry = Math.floor(carry / 10);  
-            i--;
-        } else {
-            num.unshift(carry % 10);
-            carry = Math.floor(carry / 10);
-        }
+    for (let a of num) {
+        sum += a;
+    }
+    console.log("Original array as string:", sum);
+
+    sum = BigInt(sum) + BigInt(k);
+    console.log("After addition:", sum.toString());
+
+    let res = [];
+    for (let a of sum.toString()) {
+        res.push(Number(a));
     }
 
-    return num;
+    return res;
 };
