@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akhilnasimk/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhilnasimk/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/akhilnasimk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/akhilnasimk/LeetCode/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/akhilnasimk/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhilnasimk/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akhilnasimk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Matrix
 |  |
