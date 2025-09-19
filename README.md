@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/akhilnasimk/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/akhilnasimk/LeetCode/tree/master/0389-find-the-difference) |
 ## Union Find
 |  |
