@@ -11,7 +11,7 @@ var shortestCompletingWord = function(licensePlate, words) {
     for(let a of result){
         LMap.has(a)?LMap.set(a,LMap.get(a)+1):LMap.set(a,1)
     }
-    console.log(LMap)
+    // console.log(LMap)
 
     for(let a of words ){
         let newMap= new Map()
