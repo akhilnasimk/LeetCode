@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akhilnasimk/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1651-shuffle-string](https://github.com/akhilnasimk/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akhilnasimk/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhilnasimk/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/akhilnasimk/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/akhilnasimk/LeetCode/tree/master/0749-shortest-completing-word) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilnasimk/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akhilnasimk/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhilnasimk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akhilnasimk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilnasimk/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akhilnasimk/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/akhilnasimk/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akhilnasimk/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/akhilnasimk/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhilnasimk/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilnasimk/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akhilnasimk/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Number Theory
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/akhilnasimk/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/akhilnasimk/LeetCode/tree/master/0389-find-the-difference) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Union Find
 |  |
 | ------- |
