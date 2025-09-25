@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilnasimk/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/akhilnasimk/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akhilnasimk/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/akhilnasimk/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/akhilnasimk/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akhilnasimk/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
