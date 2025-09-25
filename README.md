@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akhilnasimk/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/akhilnasimk/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhilnasimk/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0120-triangle](https://github.com/akhilnasimk/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/akhilnasimk/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/akhilnasimk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akhilnasimk/LeetCode/tree/master/0268-missing-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/akhilnasimk/LeetCode/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/akhilnasimk/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
