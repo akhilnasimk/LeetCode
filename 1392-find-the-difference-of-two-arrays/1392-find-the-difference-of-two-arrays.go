@@ -1,27 +1,24 @@
 func findDifference(nums1 []int, nums2 []int) [][]int {
-    not2:=[]int {}
-    not1:=[]int {}
-    res:=[][]int {}
-    nums1Map:= make(map[int]int);
-    for _,val:=range nums1{
-        nums1Map[val]++
-    }
-    nums2Map:= make(map[int]int);
-    for _,val:=range nums2{
-        nums2Map[val]++
-    }
-    for key,_ :=range nums1Map{
-        if nums2Map[key]==0{
-            not2=append(not2,key)
-        }
-    }
-    for key,_ :=range nums2Map{
-        if nums1Map[key]==0{
-            not1=append(not1,key)
-        }
-    }
-    fmt.Println(not2,not1,nums1Map)
-    res=append(res,not2,not1)
-    return res
+    m := make(map[int]int) 
 
+    for _, v := range nums1 {
+        m[v] |= 1 
+    }
+
+    for _, v := range nums2 {
+        m[v] |= 2 
+    }
+
+    notIn2 := []int{}
+    notIn1 := []int{}
+
+    for k, v := range m {
+        if v == 1 { 
+            notIn2 = append(notIn2, k)
+        } else if v == 2 { 
+            notIn1 = append(notIn1, k)
+        }
+    }
+
+    return [][]int{notIn2, notIn1}
 }
