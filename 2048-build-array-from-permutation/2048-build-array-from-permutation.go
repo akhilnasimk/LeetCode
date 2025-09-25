@@ -1,8 +1,8 @@
 func buildArray(nums []int) []int {
-    res:=[] int {}
+    res:=make([]int,len(nums))
 
-    for _,val := range nums{
-        res=append(res,nums[val])
+    for ind,val := range nums{
+        res[ind]=nums[val]
     }
     return res 
 }
