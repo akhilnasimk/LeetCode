@@ -1,11 +1,11 @@
 func maxFreqSum(s string) int {
-    vowel:=make(map[string]int)
-    cons:=make(map[string]int)
-    for _,val:=range s{
-        if string(val)=="a" || string(val)=="e" || string(val)=="i" || string(val)=="o" || string(val)=="u"{
-            vowel[string(val)]++
-        }else{
-            cons[string(val)]++
+    vowel:=make(map[rune]int)
+    cons:=make(map[rune]int)
+    for _, val := range s {
+        if val == 'a' || val == 'e' || val == 'i' || val == 'o' || val == 'u' {
+            vowel[val]++
+        } else {
+            cons[val]++
         }
     }
     fmt.Println(vowel,"  ",cons)
