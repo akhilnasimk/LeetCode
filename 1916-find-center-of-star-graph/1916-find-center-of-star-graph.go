@@ -1,15 +1,9 @@
 func findCenter(edges [][]int) int {
-    uni:=make(map[int]int)
-    for _,val :=range edges{
-        for _,iner:=range val{
-            uni[iner]++
-        }
+    first := edges[0]
+    second:=edges[1]
+    if first[0]==second[0] || first[0]==second[1]{
+        return first[0]
     }
-    res:=0
-    for key,val :=range uni{
-        if val==len(edges){
-            res=key
-        }
-    }
-    return res
+
+    return first[1]
 }
