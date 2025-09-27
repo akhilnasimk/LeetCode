@@ -212,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/akhilnasimk/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/akhilnasimk/LeetCode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
