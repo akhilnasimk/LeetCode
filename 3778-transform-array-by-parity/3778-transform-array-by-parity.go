@@ -1,15 +1,13 @@
 func transformArray(nums []int) []int {
-    res:=[]int {}
-    for _,val:=range nums{
-        res=append(res,val%2)
-    }
-    k:=0
-    for ind,val:=range res{
-        if val==0{
-            res[ind],res[k]=res[k],res[ind]
+    k := 0 
+    for i := 0; i < len(nums); i++ {
+        mod := nums[i] % 2 
+        nums[i] = mod     
+
+        if mod == 0 { 
+            nums[i], nums[k] = nums[k], nums[i]
             k++
         }
     }
-    fmt.Println(res)
-    return res
+    return nums
 }
