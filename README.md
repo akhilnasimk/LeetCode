@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/akhilnasimk/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/akhilnasimk/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3311-ant-on-the-boundary](https://github.com/akhilnasimk/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3778-transform-array-by-parity](https://github.com/akhilnasimk/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/akhilnasimk/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akhilnasimk/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilnasimk/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/akhilnasimk/LeetCode/tree/master/3371-harshad-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhilnasimk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akhilnasimk/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3311-ant-on-the-boundary](https://github.com/akhilnasimk/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/akhilnasimk/LeetCode/tree/master/1916-find-center-of-star-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
