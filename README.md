@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/akhilnasimk/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/akhilnasimk/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/akhilnasimk/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhilnasimk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akhilnasimk/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/akhilnasimk/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/akhilnasimk/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/akhilnasimk/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/akhilnasimk/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/akhilnasimk/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/akhilnasimk/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhilnasimk/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhilnasimk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/akhilnasimk/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/akhilnasimk/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akhilnasimk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Matrix
 |  |
