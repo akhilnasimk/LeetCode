@@ -4,7 +4,7 @@ func nextGreaterElement(nums1 []int, nums2 []int) []int {
     for ind,val := range nums2{
         nums2map[val]=ind
     }
-    fmt.Println(nums2map)
+    // fmt.Println(nums2map)
     for _,val:=range nums1{
         ind:=nums2map[val]
         flag:=true 
