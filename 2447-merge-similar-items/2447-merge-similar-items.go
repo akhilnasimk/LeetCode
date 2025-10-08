@@ -10,7 +10,7 @@ func mergeSimilarItems(items1 [][]int, items2 [][]int) [][]int {
             item2Map[val[0]]=val[1]
         }
     }
-    fmt.Println(item2Map)
+    // fmt.Println(item2Map)
     resl := make([][]int,0)
     for id,val:=range item2Map{
         resl=append(resl,[]int{id,val})
