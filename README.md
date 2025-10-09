@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/akhilnasimk/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/akhilnasimk/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/akhilnasimk/LeetCode/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/akhilnasimk/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akhilnasimk/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/akhilnasimk/LeetCode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/akhilnasimk/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/akhilnasimk/LeetCode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/akhilnasimk/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akhilnasimk/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/akhilnasimk/LeetCode/tree/master/0389-find-the-difference) |
