@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/akhilnasimk/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2447-merge-similar-items](https://github.com/akhilnasimk/LeetCode/tree/master/2447-merge-similar-items) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akhilnasimk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/akhilnasimk/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/akhilnasimk/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/akhilnasimk/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/akhilnasimk/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/akhilnasimk/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/akhilnasimk/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/akhilnasimk/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/akhilnasimk/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/akhilnasimk/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
