@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/akhilnasimk/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/akhilnasimk/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/akhilnasimk/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3778-transform-array-by-parity](https://github.com/akhilnasimk/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/akhilnasimk/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Hash Table
