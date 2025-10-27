@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/akhilnasimk/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akhilnasimk/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/akhilnasimk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhilnasimk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akhilnasimk/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/akhilnasimk/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/akhilnasimk/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/akhilnasimk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akhilnasimk/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/akhilnasimk/LeetCode/tree/master/2383-add-two-integers) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/akhilnasimk/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akhilnasimk/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/akhilnasimk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3194-find-words-containing-character](https://github.com/akhilnasimk/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/akhilnasimk/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/akhilnasimk/LeetCode/tree/master/3379-score-of-a-string) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akhilnasimk/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/akhilnasimk/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/akhilnasimk/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilnasimk/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
