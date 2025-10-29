@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/akhilnasimk/LeetCode/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/akhilnasimk/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/akhilnasimk/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/akhilnasimk/LeetCode/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/akhilnasimk/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Union Find
 |  |
 | ------- |
