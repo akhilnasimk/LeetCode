@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/akhilnasimk/LeetCode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhilnasimk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akhilnasimk/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1970-sorting-the-sentence](https://github.com/akhilnasimk/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhilnasimk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2447-merge-similar-items](https://github.com/akhilnasimk/LeetCode/tree/master/2447-merge-similar-items) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akhilnasimk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhilnasimk/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/akhilnasimk/LeetCode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akhilnasimk/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/akhilnasimk/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/akhilnasimk/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/akhilnasimk/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
