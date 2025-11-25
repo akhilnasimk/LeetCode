@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akhilnasimk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/akhilnasimk/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/akhilnasimk/LeetCode/tree/master/0749-shortest-completing-word) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/akhilnasimk/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilnasimk/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akhilnasimk/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akhilnasimk/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/akhilnasimk/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/akhilnasimk/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/akhilnasimk/LeetCode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/akhilnasimk/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1031-add-to-array-form-of-integer](https://github.com/akhilnasimk/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akhilnasimk/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/akhilnasimk/LeetCode/tree/master/1448-maximum-69-number) |
