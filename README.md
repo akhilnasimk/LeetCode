@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akhilnasimk/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3311-ant-on-the-boundary](https://github.com/akhilnasimk/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/akhilnasimk/LeetCode/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/akhilnasimk/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akhilnasimk/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akhilnasimk/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akhilnasimk/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/akhilnasimk/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/akhilnasimk/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/akhilnasimk/LeetCode/tree/master/3371-harshad-number) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/akhilnasimk/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akhilnasimk/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akhilnasimk/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/akhilnasimk/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhilnasimk/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/akhilnasimk/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/akhilnasimk/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/akhilnasimk/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Enumeration
 |  |
 | ------- |
