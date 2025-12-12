@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhilnasimk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akhilnasimk/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2447-merge-similar-items](https://github.com/akhilnasimk/LeetCode/tree/master/2447-merge-similar-items) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akhilnasimk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/akhilnasimk/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akhilnasimk/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhilnasimk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2447-merge-similar-items](https://github.com/akhilnasimk/LeetCode/tree/master/2447-merge-similar-items) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akhilnasimk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/akhilnasimk/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/akhilnasimk/LeetCode/tree/master/2383-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/akhilnasimk/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akhilnasimk/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-smallest-even-multiple](https://github.com/akhilnasimk/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/akhilnasimk/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akhilnasimk/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akhilnasimk/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/akhilnasimk/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akhilnasimk/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
