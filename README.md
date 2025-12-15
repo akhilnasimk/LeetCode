@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akhilnasimk/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akhilnasimk/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhilnasimk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/akhilnasimk/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/akhilnasimk/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2083-three-divisors](https://github.com/akhilnasimk/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/akhilnasimk/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/akhilnasimk/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/akhilnasimk/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akhilnasimk/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akhilnasimk/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akhilnasimk/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/akhilnasimk/LeetCode/tree/master/1656-count-good-triplets) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2083-three-divisors](https://github.com/akhilnasimk/LeetCode/tree/master/2083-three-divisors) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Binary Search
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akhilnasimk/LeetCode/tree/master/0078-subsets) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Database
 |  |
