@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/akhilnasimk/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3701-compute-alternating-sum](https://github.com/akhilnasimk/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/akhilnasimk/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akhilnasimk/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3778-transform-array-by-parity](https://github.com/akhilnasimk/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/akhilnasimk/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Hash Table
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akhilnasimk/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/akhilnasimk/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akhilnasimk/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/akhilnasimk/LeetCode/tree/master/3830-find-closest-person) |
 ## Simulation
