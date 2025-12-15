@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akhilnasimk/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/akhilnasimk/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akhilnasimk/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/akhilnasimk/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhilnasimk/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/akhilnasimk/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/akhilnasimk/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akhilnasimk/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/akhilnasimk/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/akhilnasimk/LeetCode/tree/master/0260-single-number-iii) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akhilnasimk/LeetCode/tree/master/0078-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/akhilnasimk/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Database
 |  |
