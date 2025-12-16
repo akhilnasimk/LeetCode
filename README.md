@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/akhilnasimk/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/akhilnasimk/LeetCode/tree/master/0792-binary-search) |
 | [0832-flipping-an-image](https://github.com/akhilnasimk/LeetCode/tree/master/0832-flipping-an-image) |
+| [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhilnasimk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/akhilnasimk/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilnasimk/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhilnasimk/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/akhilnasimk/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/akhilnasimk/LeetCode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhilnasimk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akhilnasimk/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/akhilnasimk/LeetCode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -479,4 +483,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/akhilnasimk/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
