@@ -11,7 +11,7 @@ func sortArray(nums []int) []int {
 }
 
 func merge(left,right []int)[]int{
-    merged:=[]int{}
+    merged := make([]int, 0, len(left)+len(right))
     i:=0
     j:=0
     for i<len(left)&&j<len(right){
