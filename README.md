@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -535,11 +537,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0101-symmetric-tree) |
 ## Quickselect
 |  |
