@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akhilnasimk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/akhilnasimk/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akhilnasimk/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhilnasimk/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/akhilnasimk/LeetCode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/akhilnasimk/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akhilnasimk/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/akhilnasimk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akhilnasimk/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhilnasimk/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/akhilnasimk/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/akhilnasimk/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akhilnasimk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akhilnasimk/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhilnasimk/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/akhilnasimk/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/akhilnasimk/LeetCode/tree/master/0414-third-maximum-number) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilnasimk/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akhilnasimk/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/akhilnasimk/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/akhilnasimk/LeetCode/tree/master/3226-minimum-number-game) |
@@ -501,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -552,4 +559,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
