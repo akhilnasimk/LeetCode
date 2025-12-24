@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/akhilnasimk/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/akhilnasimk/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/akhilnasimk/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/akhilnasimk/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/akhilnasimk/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akhilnasimk/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/akhilnasimk/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/akhilnasimk/LeetCode/tree/master/2447-merge-similar-items) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akhilnasimk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2756-buy-two-chocolates](https://github.com/akhilnasimk/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/akhilnasimk/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/akhilnasimk/LeetCode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/akhilnasimk/LeetCode/tree/master/3321-type-of-triangle) |
 | [3606-coupon-code-validator](https://github.com/akhilnasimk/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akhilnasimk/LeetCode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/akhilnasimk/LeetCode/tree/master/1448-maximum-69-number) |
 | [2756-buy-two-chocolates](https://github.com/akhilnasimk/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/akhilnasimk/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
