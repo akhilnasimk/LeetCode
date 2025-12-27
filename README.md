@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Quickselect
 |  |
