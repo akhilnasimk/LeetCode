@@ -18,7 +18,7 @@ func (R MinHeap)Swap(i,j int ){
 }
 
 func (R MinHeap)Less(i,j int )bool{
-    return R[i]<R[j]
+    return R[i]>R[j]
 }
 
 func (R *MinHeap)Push(val interface{}){
@@ -37,20 +37,19 @@ func kthSmallest(root *TreeNode, k int) int {
     h:=&MinHeap{}
     heap.Init(h)
 
-    Dfs(root,h)
-    var ans int
-    for i := 0; i < k; i++ {
-        ans=heap.Pop(h).(int)
-    }
+    Dfs(root,h,k)
 
-    return ans
+    return heap.Pop(h).(int)
 }
 
-func Dfs(root *TreeNode,minH *MinHeap){
+func Dfs(root *TreeNode,minH *MinHeap,k int ){
     if root==nil{
         return 
     }
     heap.Push(minH,root.Val)
-    Dfs(root.Left,minH)
-    Dfs(root.Right,minH)
+    if minH.Len()>k{
+        heap.Pop(minH)
+    }
+    Dfs(root.Left,minH,k)
+    Dfs(root.Right,minH,k)
 }
