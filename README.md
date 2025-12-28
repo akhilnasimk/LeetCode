@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/akhilnasimk/LeetCode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/akhilnasimk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/akhilnasimk/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0654-maximum-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/akhilnasimk/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0749-shortest-completing-word](https://github.com/akhilnasimk/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/akhilnasimk/LeetCode/tree/master/0792-binary-search) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/akhilnasimk/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/akhilnasimk/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/akhilnasimk/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/akhilnasimk/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [2128-reverse-prefix-of-word](https://github.com/akhilnasimk/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhilnasimk/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Graph
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akhilnasimk/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -553,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akhilnasimk/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhilnasimk/LeetCode/tree/master/0938-range-sum-of-bst) |
