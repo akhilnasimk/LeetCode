@@ -21,7 +21,7 @@ func getAllElements(root1 *TreeNode, root2 *TreeNode) []int {
     }
     dfs(root1,&ar1)
     dfs(root2,&ar2)
-    res:=[]int{}
+    res := make([]int, 0, len(ar1)+len(ar2))
     i:=0
     j:=0
     for i<len(ar1)&&j<len(ar2){
