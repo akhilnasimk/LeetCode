@@ -29,6 +29,5 @@ func maxLevelSum(root *TreeNode) int {
             Biggest=val
         }
     }
-    // fmt.Println(sumMap)
     return res 
 }
