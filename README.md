@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/akhilnasimk/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/akhilnasimk/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/akhilnasimk/LeetCode/tree/master/1656-count-good-triplets) |
+| [1732-find-the-highest-altitude](https://github.com/akhilnasimk/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akhilnasimk/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akhilnasimk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/akhilnasimk/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/akhilnasimk/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhilnasimk/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/akhilnasimk/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/akhilnasimk/LeetCode/tree/master/3311-ant-on-the-boundary) |
