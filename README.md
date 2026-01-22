@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/akhilnasimk/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1609-even-odd-tree](https://github.com/akhilnasimk/LeetCode/tree/master/1609-even-odd-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akhilnasimk/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/akhilnasimk/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1609-even-odd-tree](https://github.com/akhilnasimk/LeetCode/tree/master/1609-even-odd-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akhilnasimk/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akhilnasimk/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/akhilnasimk/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akhilnasimk/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
