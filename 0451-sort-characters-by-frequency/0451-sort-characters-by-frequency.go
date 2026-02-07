@@ -1,55 +1,55 @@
-type data struct {
-    str string 
-    count int 
+type Item struct {
+    ch    rune
+    count int
 }
 
-type baseheap []data 
+type baseheap []Item
 
-func (r baseheap)Len()int{
-    return len(r)
+func (h baseheap) Len() int { return len(h) }
+func (h baseheap) Less(i, j int) bool {
+    return h[i].count > h[j].count // max heap
+}
+func (h baseheap) Swap(i, j int) {
+    h[i], h[j] = h[j], h[i]
 }
 
-func (r baseheap)Less(i,j int)bool{
-    return r[i].count>r[j].count
+func (h *baseheap) Push(x interface{}) {
+    *h = append(*h, x.(Item))
 }
 
-func (r baseheap )Swap(i,j int){
-    r[i],r[j]=r[j],r[i]
-}
-
-func (r *baseheap)Push(val interface{}){
-    *r=append(*r,val.(data))
-}
-
-func (r *baseheap)Pop()(interface{}){
-    old:=*r 
-    n:=len(old)
-    val:=old[n-1]
-    *r=old[:n-1]
-    return val 
+func (h *baseheap) Pop() interface{} {
+    old := *h
+    n := len(old)
+    item := old[n-1]
+    *h = old[:n-1]
+    return item
 }
 
 func frequencySort(s string) string {
-    map1:=make(map[string]int)
-    for _,val:=range s{
-        map1[string(val)]++
-    }
-    heap1:=&baseheap{}
-    heap.Init(heap1)
-
-    for key,val:=range map1{
-        val:=data{str:key,count:val}
-        heap.Push(heap1,val)
+    // 1. Count frequency
+    freq := make(map[rune]int)
+    for _, ch := range s {
+        freq[ch]++
     }
 
-    n:=len(*heap1)
-    res:=""
-    for i:=0;i<n;i++{
-        val:=heap.Pop(heap1).(data)
-        for j:=0;j<val.count;j++{
-            res+=val.str
+    // 2. Build heap
+    h := make(baseheap, 0, len(freq))
+    heap.Init(&h)
+
+    for ch, cnt := range freq {
+        heap.Push(&h, Item{ch: ch, count: cnt})
+    }
+
+    // 3. Build result efficiently
+    var builder strings.Builder
+    builder.Grow(len(s)) // optional but nice
+
+    for h.Len() > 0 {
+        item := heap.Pop(&h).(Item)
+        for i := 0; i < item.count; i++ {
+            builder.WriteRune(item.ch)
         }
     }
 
-    return res
+    return builder.String()
 }
