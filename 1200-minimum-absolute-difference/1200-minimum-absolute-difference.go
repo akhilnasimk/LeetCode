@@ -1,7 +1,7 @@
 func minimumAbsDifference(arr []int) [][]int {
     sort.Ints(arr)
 
-    mindiff:=100001
+    mindiff:=10000001
     res:=[][]int{}
 
     for i:=0;i<len(arr)-1;i++{
