@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akhilnasimk/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/akhilnasimk/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/akhilnasimk/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/akhilnasimk/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/akhilnasimk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akhilnasimk/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akhilnasimk/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akhilnasimk/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/akhilnasimk/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/akhilnasimk/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/akhilnasimk/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akhilnasimk/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akhilnasimk/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/akhilnasimk/LeetCode/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/akhilnasimk/LeetCode/tree/master/0838-design-linked-list) |
 ## Backtracking
@@ -681,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhilnasimk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akhilnasimk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/akhilnasimk/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
