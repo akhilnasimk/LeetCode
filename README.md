@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/akhilnasimk/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akhilnasimk/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3778-transform-array-by-parity](https://github.com/akhilnasimk/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3895-count-digit-appearances](https://github.com/akhilnasimk/LeetCode/tree/master/3895-count-digit-appearances) |
 | [4008-restore-finishing-order](https://github.com/akhilnasimk/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akhilnasimk/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akhilnasimk/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/akhilnasimk/LeetCode/tree/master/3830-find-closest-person) |
+| [3895-count-digit-appearances](https://github.com/akhilnasimk/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
