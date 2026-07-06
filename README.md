@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/akhilnasimk/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/akhilnasimk/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/akhilnasimk/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/akhilnasimk/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akhilnasimk/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/akhilnasimk/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akhilnasimk/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/akhilnasimk/LeetCode/tree/master/2447-merge-similar-items) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akhilnasimk/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/akhilnasimk/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/akhilnasimk/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akhilnasimk/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilnasimk/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akhilnasimk/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
